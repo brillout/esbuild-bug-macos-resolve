@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"esbuild": "^0.24.0",
+		"vike-react": "^0.5.7"
+	},
+	"type": "module"
+}
