@@ -1,4 +1,4 @@
-Run `node build.js` and most users should get:
+Run `pnpm install && node build.js` and, if you use Linux or Windows, you should get:
 
 ```
 ========================
@@ -7,7 +7,7 @@ Run `node build.js` and most users should get:
 SUCCESS
 ```
 
-But some macOS users (only some macOS users, not all of them) get this error instead:
+[Some macOS users](https://github.com/vikejs/vike/issues/1729#issuecomment-2467073087) (not all of them) get this error instead:
 
 ```
 ========================
